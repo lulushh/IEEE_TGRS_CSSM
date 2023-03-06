@@ -1,5 +1,5 @@
 # IEEE_TGRS_CSSM
-The code in this toolbox implements the [TGRS'22] "A Complementary Spectral-Spatial Method for Hyperspectral Image Classification". <br />
+[TGRS 2022]The code in this toolbox implements the "A Complementary Spectral-Spatial Method for Hyperspectral Image Classification". <br />
 
 
 # Citation
