@@ -26,7 +26,7 @@ The original code is based on Pavia University dataset.<br />
 1. Download the dataset and put it in the code file.<br />
 2. Modify the corresponding parameters in the "Prepare image" module.<br />
 3. Modify the visual color options in the "Visualization" module according to the corresponding dataset.<br />
-4. run demo.m
+4. Run demo.m
 
 
 # Contact Information
